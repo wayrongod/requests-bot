@@ -22,8 +22,8 @@ A Telegram bot for collecting and managing user requests/appeals. Users can subm
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/wayrongod/requests-bot.git
+   cd requests-bot
    ```
 
 2. **Install dependencies**
